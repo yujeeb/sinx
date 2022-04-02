@@ -17,3 +17,5 @@ I divided the process into three separate tasks.
 3. And then, wrote the main() code to complete the program
 
 ![image](https://user-images.githubusercontent.com/87360190/161364122-02302422-2be0-4be7-8c31-1e0d253dc756.png)
+
+Take a peek at the program here : https://github.com/yujeeb/sinx/blob/main/sinx.c 
