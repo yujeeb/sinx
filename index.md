@@ -15,4 +15,4 @@ In mathematics, we expand the sine in the following way
 
 ## cosx
 
-[cosx]()
+[cosx](https://github.com/yujeeb/sinx/new/gh-pages)
